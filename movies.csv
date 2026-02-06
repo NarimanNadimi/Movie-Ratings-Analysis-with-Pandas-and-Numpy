@@ -1,0 +1,21 @@
+MovieID,Title,Genre,UserID,Rating
+1,The Matrix,Sci-Fi,101,5
+2,Inception,Sci-Fi,102,4
+3,Titanic,Romance,103,5
+4,The Matrix,Sci-Fi,104,4
+5,Titanic,Romance,101,3
+6,Inception,Sci-Fi,103,5
+7,Avengers,Action,102,4
+8,Avengers,Action,104,5
+9,Avatar,Sci-Fi,105,5
+10,Avatar,Sci-Fi,101,4
+11,The Godfather,Crime,102,5
+12,The Godfather,Crime,103,4
+13,Forrest Gump,Drama,104,5
+14,Forrest Gump,Drama,105,4
+15,Gladiator,Action,101,5
+16,Gladiator,Action,102,4
+17,La La Land,Romance,103,5
+18,La La Land,Romance,104,4
+19,Joker,Drama,105,5
+20,Joker,Drama,101,4
